@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ethan Leigh-Fellows
 
-<!--
-**ethanleighfellows/ethanleighfellows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product builder focused on AI governance, security, and B2B SaaS.
 
-Here are some ideas to get you started:
+Currently at [DynamoAI (YC22)](https://www.dynamo.ai/), I'm developing solutions to tackle AI security vulnerabilities like prompt injection and jailbreaks. Before that, I was at [Pitchlane](https://pitchlane.com/), where I helped shape and ship an early-stage B2B SaaS product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub
+I learn by building. My GitHub is a sandbox for personal projects, prototypes, and experiments where I test out ideas end-to-end.
+
+## What I Do
+
+AI governance & guardrails
+
+Information security & prompt injection
+
+Product execution (scoping → shipping)
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/ethan-leigh-fellows/
+- GitHub: https://github.com/ethanleighfellows
