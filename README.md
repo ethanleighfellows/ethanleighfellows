@@ -13,15 +13,8 @@ Class of 2025
 ## GitHub
 I learn by building. My GitHub is a sandbox for personal projects, prototypes, and experiments where I test out ideas end-to-end.
 
-## What I Do
-
-AI governance & guardrails
-
-Information security & prompt injection
-
-Product execution (scoping → shipping)
 
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/ethan-leigh-fellows/
-- GitHub: https://github.com/ethanleighfellows
+
