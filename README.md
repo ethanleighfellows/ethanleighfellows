@@ -1,6 +1,6 @@
 # Ethan Leigh-Fellows
 
-I’m a product builder focused on AI governance, security, and B2B SaaS.
+I’m a product builder focused on AI governance & security.
 
 Currently at [DynamoAI (YC22)](https://www.dynamo.ai/), I'm developing solutions to tackle AI security vulnerabilities like prompt injection, jailbreaks and around information security. Before that, I was at [Pitchlane](https://pitchlane.com/), where I helped shape and ship an early-stage B2B SaaS product.
 
